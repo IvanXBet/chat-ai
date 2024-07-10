@@ -1,0 +1,42 @@
+.registration-form-container {
+	
+}
+
+.registration-form {
+	margin: 150px auto;
+	width: 400px;
+	padding: 40px;
+	background-color: #ffffff;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+	text-align: center;
+}
+
+.registration-form h2 {
+	margin-bottom: 20px;
+	color: #333333;
+}
+
+.form-group {
+  	margin-bottom: 20px;
+}
+
+
+.btn-reg-sub {
+	width: 100%;
+	padding: 14px;
+	
+	color: white;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: background-color 0.3s ease;
+}
+
+
+
+.error-message {
+  color: red;
+  margin-bottom: 10px;
+}
